@@ -1,137 +1,129 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Karina%20Pérez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20•%20Full%20Stack%20Developer%20•%20Computer%20Systems%20Engineering&descAlignY=60"/>
+
 # 👋 Hi, I'm Karina Pérez
 
 ### 💻 Computer Systems Engineering Student
-### 📱 Android Developer | 🌐 Full Stack Developer | 🔥 Firebase Enthusiast
+### 📱 Android • 🌐 Full Stack • 🔥 Firebase • 🚀 Always Learning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Android+Developer;Full+Stack+Developer;Kotlin+%7C+React+%7C+Firebase;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Android+Developer;Full+Stack+Developer;Kotlin+%7C+Jetpack+Compose;React+%7C+TypeScript;Firebase+%7C+SQLite;Always+Learning+New+Technologies"/>
+
+![](https://komarev.com/ghpvc/?username=K4RY05&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👩🏻‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🎓 Computer Systems Engineering Student
 
 📱 Passionate about Android Development using **Kotlin** and **Jetpack Compose**
 
-🌐 Learning **React**, **TypeScript** and Full Stack Development
+🌐 Learning **React**, **TypeScript** and modern Full Stack Development
 
-🔥 Experience with Firebase Authentication, Firestore and Storage
+🔥 Experience with **Firebase Authentication**, **Firestore** and **Storage**
 
-🗄️ Experience working with SQLite databases
+🗄️ Experience developing applications with **SQLite**
 
 🐍 Python Developer
 
 🤖 Arduino & IoT Projects
 
-❤️ Interested in educational technology and software that creates a positive social impact.
+❤️ Passionate about creating technology that improves people's lives through education and accessibility.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-## 📱 Mobile Development
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,react,ts,js,html,css,nodejs,python,java,cpp,mysql,git,github,vscode,figma,postman&perline=9"/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase"/>
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-## 🌐 Frontend
+<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css"/>
-
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
-
-</p>
-
----
-
-## 💾 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c"/>
-
-</p>
-
----
-
-## 🧰 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 📱 LumiKids | Mobile application for children with Autism Spectrum Disorder (ASD). | Kotlin • Firebase |
-| 🚍 BestWay | Smart public transportation application. | Android • Firebase |
-| 📅 Event Manager | Event management app with maps, contacts and notifications. | Kotlin • SQLite |
-| 🌐 Folio Manager | Web application for managing folios. | React • TypeScript |
-| 🤖 Arduino Snake | Snake game controlled with potentiometers using Arduino and Python. | Arduino • Python |
+## 📱 LumiKids
+
+Educational Android application designed to support children with Autism Spectrum Disorder (ASD) through visual communication, learning activities and interactive exercises.
+
+**Tech Stack**
+
+`Kotlin` `Jetpack Compose` `Firebase`
+
+---
+
+## 🌐 Folio Manager
+
+Modern web application for managing folios with authentication and cloud database.
+
+**Tech Stack**
+
+`React` `TypeScript` `Firebase`
+
+---
+
+## 📅 Event Manager
+
+Android application for organizing events with notifications, SQLite database, Google Maps integration and contacts.
+
+**Tech Stack**
+
+`Kotlin` `SQLite`
+
+---
+
+## 🚍 BestWay
+
+Smart mobility application focused on improving public transportation through technology.
+
+**Tech Stack**
+
+`Android` `Firebase`
+
+---
+
+## 🤖 Arduino Snake
+
+Snake game controlled with potentiometers connected to Arduino and Python.
+
+**Tech Stack**
+
+`Arduino` `Python`
 
 ---
 
 # 🌱 Currently Learning
 
-- ⚛ React
-- 📘 TypeScript
-- ☁ Cloud Computing
+- ⚛ React Ecosystem
+- 📘 Advanced TypeScript
 - 🐳 Docker
+- ☁ Cloud Computing
 - 🏗 Software Architecture
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals for 2026
 
-✅ Publish LumiKids
-
-✅ Improve my Full Stack skills
-
-✅ Learn Docker
-
-✅ Learn Spring Boot
-
-✅ Contribute to Open Source
+- 🚀 Publish LumiKids
+- 📱 Build more Android Applications
+- 🌐 Master Full Stack Development
+- 🐳 Learn Docker
+- 🌱 Contribute to Open Source
 
 ---
 
@@ -139,9 +131,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=K4RY05&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4RY05&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -151,7 +143,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=K4RY05&theme=tokyonight"/>
 
 </div>
 
@@ -161,7 +153,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K4RY05&theme=tokyo-night"/>
 
 </div>
 
@@ -171,17 +163,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=k4ry05&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github-profile-trophy.vercel.app/?username=K4RY05&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -191,36 +173,30 @@
 
 <div align="center">
 
+<a href="https://github.com/K4RY05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:TU_CORREO">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-> *"Technology is more meaningful when it improves people's lives."*
-
 </div>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=for-the-badge)
+## 💡 Favorite Quote
+
+> *"Technology is more meaningful when it empowers people."*
 
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
