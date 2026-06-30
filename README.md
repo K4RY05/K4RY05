@@ -159,16 +159,6 @@ Snake game controlled with potentiometers connected to Arduino and Python.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=K4RY05&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📫 Connect with Me
 
 <div align="center">
