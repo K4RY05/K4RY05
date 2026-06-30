@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Karina%20Pérez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20•%20Full%20Stack%20Developer%20•%20Computer%20Systems%20Engineering&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Karina%20Cabrera&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20•%20Full%20Stack%20Developer%20•%20Computer%20Systems%20Engineering&descAlignY=60"/>
 
 # 👋 Hi, I'm Karina Cabrera
 
