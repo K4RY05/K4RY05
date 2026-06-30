@@ -171,7 +171,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=k4ry05&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
