@@ -87,25 +87,6 @@ Android application for organizing events with notifications, SQLite database, G
 
 ---
 
-## 🚍 BestWay
-
-Smart mobility application focused on improving public transportation through technology.
-
-**Tech Stack**
-
-`Android` `Firebase`
-
----
-
-## 🤖 Arduino Snake
-
-Snake game controlled with potentiometers connected to Arduino and Python.
-
-**Tech Stack**
-
-`Arduino` `Python`
-
----
 
 # 🌱 Currently Learning
 
