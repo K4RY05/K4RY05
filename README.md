@@ -148,11 +148,11 @@ Android application for organizing events with notifications, SQLite database, G
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://linkedin.com/in/karina-pozos-cabrera-b516bb272">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:kc340137@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
