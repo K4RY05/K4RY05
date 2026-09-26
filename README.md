@@ -66,17 +66,6 @@ Educational Android application designed to support children with Autism Spectru
 `Kotlin` `Jetpack Compose` `Firebase`
 
 ---
-
-## 🌐 Folio Manager
-
-Modern web application for managing folios with authentication and cloud database.
-
-**Tech Stack**
-
-`React` `TypeScript` `Firebase`
-
----
-
 ## 📅 Event Manager
 
 Android application for organizing events with notifications, SQLite database, Google Maps integration and contacts.
